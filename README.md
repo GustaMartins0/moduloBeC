@@ -1,3 +1,8 @@
+# Projeto moduloC_PrimeTrio
+
+Link do vídeo pitch: https://youtu.be/1flPGpY7s5Q
+Link do figma: https://www.figma.com/proto/DpgRyIj2Ih6ygYx7qEyThv/Minimal-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design--Community---Copy-?node-id=1533-104&t=H451xpYJzxchxDiT-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=1533%3A104&show-proto-sidebar=1
+
 # Projeto modulob_PrimeTrio
  
 Projeto: *IIoT / Monitoramento e Controle* — Node único (expandível para 3 nós)
